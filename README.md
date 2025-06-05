@@ -1,11 +1,9 @@
-## atividade_principios
+## 🧮 Conversor Binário–Decimal com Interface Gráfica (Tkinter)
 
-# 🧮 Conversor Binário–Decimal com Interface Gráfica (Tkinter)
-
-# 📋 Descrição da Atividade
+## 📋 Descrição da Atividade
 Esta atividade teve como objetivo desenvolver uma aplicação com interface gráfica (GUI) utilizando a biblioteca Tkinter, padrão da linguagem Python. A proposta consistia em criar uma calculadora capaz de converter números binários em decimais e vice-versa, de forma interativa, intuitiva e com validações adequadas.
 
-# 🛠️ Funcionalidades da Calculadora
+## 🛠️ Funcionalidades da Calculadora
 
 Conversão Binário → Decimal: O usuário digita um número binário (composto apenas por 0 e 1), e o programa exibe o valor correspondente em decimal.
 
